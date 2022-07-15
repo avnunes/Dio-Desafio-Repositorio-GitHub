@@ -17,10 +17,13 @@ Abaixo, todas as atividades do <b>Bootcamp Santander Code Girls</b>:
 - Lógica Condicional e Controle de Fluxos em Java;
 - Estruturas de Repetição e Arrays em Java;
 - Trabalhando com Collections Java;
+- Desafio de código - Desafios Básicos Java - Code Girls Santander;
 - Programação Orientada a Objetos;
 - Praticando Orientação a Objetos com Java;
 - Debugging Java;
 - Tratamento de Exceções em Java;
+- Desafio de código - Desafios Intermediários Java - Code Girls Santander;
+- Desafio de projeto - Abstraindo um Bootcamp Usando Orientação a Objetos em Java;
 - Principais Protocolos de Comunicação da Internet;
 - Gerenciamento de Dependências e Build em Java com Maven;
 - Introdução ao Spring Framework;
