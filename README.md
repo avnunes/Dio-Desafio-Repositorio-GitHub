@@ -11,7 +11,7 @@ Abaixo, todas as atividades do <b>Bootcamp Santander Code Girls</b>:
 - Introdução ao Git e ao GitHub; [[Certificado]](https://hermes.digitalinnovation.one/certificates/1645A655.pdf)
 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso; [[Certificado]](https://hermes.digitalinnovation.one/certificates/C75CF093.pdf)
 - Santander Code Girls | Aula Inaugural; [[Certificado]](https://hermes.digitalinnovation.one/certificates/49FF2EAC.pdf)
-- Dominando IDEs Java;
+- Dominando IDEs Java; [[Certificado]](https://hermes.digitalinnovation.one/certificates/EFA17989.pdf)
 - Variáveis, Tipos de Dados e Operadores Matemáticos em Java;
 - Entendendo Métodos Java;
 - Lógica Condicional e Controle de Fluxos em Java;
